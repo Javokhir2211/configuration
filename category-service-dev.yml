@@ -14,7 +14,7 @@ spring:
 server:
   servlet:
     context-path: /category-service
-  port: 8021
+  port: 8030
 
 springdoc:
   api-docs.path: /api-docs

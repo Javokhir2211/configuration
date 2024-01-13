@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8413846-2a8a-4a10-966b-c13e8d593ba0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/category-service-dev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/category-service-prod.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/9c5e9ff9-a632-4578-a589-82803f0fffa9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/9c5e9ff9-a632-4578-a589-82803f0fffa9/storage_v2/_src_/database/kimyo_db.2Exp3g.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/9c5e9ff9-a632-4578-a589-82803f0fffa9/storage_v2/_src_/database/kimyo_db.2Exp3g/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/9c5e9ff9-a632-4578-a589-82803f0fffa9/storage_v2/_src_/database/kimyo_db.2Exp3g/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/9c5e9ff9-a632-4578-a589-82803f0fffa9/storage_v2/_src_/database/kimyo_db.2Exp3g/schema/public.abK9xQ.meta" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service-prod.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kimyo-project-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/kimyo-project-dev.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/product-service-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/category-service-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/category-service-prod.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,26 +27,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Backend Java Projects/Microservice/Configuration&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Backend Java Projects/Microservice/Configuration",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Backend Java Projects\Microservice\Configuration" />
@@ -96,10 +97,37 @@
       <workItem from="1702661524499" duration="3202000" />
       <workItem from="1702702541291" duration="1767000" />
       <workItem from="1702724611073" duration="1394000" />
+      <workItem from="1702809895574" duration="2817000" />
+      <workItem from="1702917600593" duration="1203000" />
+      <workItem from="1702980362180" duration="2023000" />
+      <workItem from="1703057356633" duration="928000" />
+      <workItem from="1703324286536" duration="1219000" />
+      <workItem from="1703332520438" duration="1191000" />
+      <workItem from="1704257124130" duration="674000" />
+      <workItem from="1704536572650" duration="598000" />
+      <workItem from="1704608428854" duration="848000" />
+      <workItem from="1704710843133" duration="605000" />
+      <workItem from="1704911581245" duration="624000" />
+      <workItem from="1704969354617" duration="819000" />
+      <workItem from="1704971093189" duration="96000" />
+      <workItem from="1704974360729" duration="778000" />
+      <workItem from="1705124042664" duration="1864000" />
+      <workItem from="1705140793879" duration="3192000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

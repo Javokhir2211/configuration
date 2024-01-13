@@ -10,9 +10,8 @@ spring:
     hibernate:
       ddl-auto: update
 
-
 server:
   servlet:
-    context-path: /category-service
-  port: 8030
+    context-path: /order-service
+  port: 8001
 
